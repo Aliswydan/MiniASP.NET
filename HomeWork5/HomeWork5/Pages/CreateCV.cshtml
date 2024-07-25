@@ -1,0 +1,97 @@
+﻿@page
+@model HomeWork5.Pages.CreateCVModel
+@{
+    ViewData["Title"] = "Create your CV";
+}
+
+<h1 class="text-center text-dark">@ViewData["Title"]</h1>
+<div asp-validation-summary="All"></div>
+<form method="post" class="form-group w-75 border p-3  m-auto" enctype="multipart/form-data">
+    <div class="form-group p-1 ">
+        <label asp-for="view.FirstName"></label>
+        <input name="FirstName" class="form-control" asp-for="view.FirstName" />
+        <span asp-validation-for="view.FirstName" data-valmsg-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group p-1 ">
+        <label asp-for="view.LastName"></label>
+        <input name="LastName" class="form-control" asp-for="view.LastName" />
+        <span asp-validation-for="view.LastName" data-valmsg-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group p-1 ">
+        <label asp-for="view.Birthday"></label>
+        <input name="Birthday" class="form-control" asp-for="view.Birthday" />
+        <span asp-validation-for="view.Birthday" data-valmsg-for="Birthday" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.Nationality"></label>
+        <select name="Nationality" class="form-control" asp-for="view.Nationality" asp-items="Model.Nationalities"></select>
+        <span asp-validation-for="view.Nationality" data-valmsg-for="Nationality" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.Sex"></label>
+        <input type="radio" name="Sex" class="form-check-input" asp-for="view.Sex" value="Male" />&nbsp; Male &nbsp;
+        <input type="radio" name="Sex" class="form-check-input" asp-for="view.Sex" value="Female" />&nbsp; Female &nbsp;
+        <span asp-validation-for="view.Sex" data-valmsg-for="Sex" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group ">
+        <label>Skills</label> <br />
+        @foreach (var skill in Model.skillsList)
+        {
+
+            <input  type="checkbox" name="Skills" class="form-check-input p-3 m-1" value="@skill.Value" />
+            <label class="form-check-label">@skill.Text</label>
+            <br />
+        }
+        <span asp-validation-for="view.Skills" data-valmsg-for="Skills" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.Email"></label>
+        <input name="Email" class="form-control" asp-for="view.Email" value="email@gamil.com" />
+        <span asp-validation-for="view.Email" data-valmsg-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.EmailConfirm"></label>
+        <input name="EmailConfirm" class="form-control" asp-for="view.EmailConfirm" value="email@gamil.com" />
+        <span asp-validation-for="view.EmailConfirm" data-valmsg-for="EmailConfirm" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.Password"></label>
+        <input name="Password" class="form-control" asp-for="view.Password" />
+        <span asp-validation-for="view.Password" data-valmsg-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1">
+        <label asp-for="view.val1"></label> +
+        <label asp-for="view.val2"></label> =
+        <label asp-for="view.val3"></label>
+        <br />
+        <input name="val1" class="form-control w-25" asp-for="view.val1" /> +
+        <input name="val2"  class="form-control w-25" asp-for="view.val1" /> =
+        <input name="val3"  class="form-control w-25" asp-for="view.val3" />
+
+        <span asp-validation-for="view.val1" data-valmsg-for="val1" class="text-danger"></span>
+        <span asp-validation-for="view.val2" data-valmsg-for="val2" class="text-danger"></span>
+        <span asp-validation-for="view.val3" data-valmsg-for="val3"  class="text-danger"></span>
+    </div>
+
+    <div class="form-group p-1 ">
+        <label asp-for="view.Photo"></label>
+        <input type="file" name="Photo" class="form-control" asp-for="view.Photo" />
+        <span asp-validation-for="view.Photo" data-valmsg-for="Photo" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+
+
+
+@section  Scripts{
+@Html.Partial("_ValidationScriptsPartial")
+        }

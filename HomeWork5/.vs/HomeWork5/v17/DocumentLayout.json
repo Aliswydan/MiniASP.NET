@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\veiwcvbyid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\veiwcvbyid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\database\\cvclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\database\\cvclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\veiwallcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\veiwallcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\veiwcvbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\veiwcvbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\veiwallcv.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\veiwallcv.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\createcv.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\createcv.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\services\\cvservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\services\\cvservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\services\\icvservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\services\\icvservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\createcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\createcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\commands\\cvcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\commands\\cvcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\models\\cvbindmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\models\\cvbindmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\homework5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\homework5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|c:\\users\\ali\\source\\repos\\asp\\homework5\\homework5\\migrations\\20240516081950_initialschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D25242-6F6D-42F3-827A-AE49B9616AFD}|HomeWork5\\HomeWork5.csproj|solutionrelative:homework5\\migrations\\20240516081950_initialschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiwCVById.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwCVById.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\VeiwCVById.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwCVById.cshtml.cs",
+              "RelativeToolTip": "HomeWork5\\Pages\\VeiwCVById.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:05:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeiwCVById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwCVById.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\VeiwCVById.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwCVById.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\VeiwCVById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:04:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeiwAllCV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwAllCV.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\VeiwAllCV.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwAllCV.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\VeiwAllCV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:22:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\DataBase\\CVClass.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\DataBase\\CVClass.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\DataBase\\CVClass.cs",
+              "RelativeToolTip": "HomeWork5\\DataBase\\CVClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:53:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\DataBase\\Appdbcontext.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\DataBase\\Appdbcontext.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\DataBase\\Appdbcontext.cs",
+              "RelativeToolTip": "HomeWork5\\DataBase\\Appdbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:10:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeiwAllCV.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwAllCV.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\VeiwAllCV.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\VeiwAllCV.cshtml.cs",
+              "RelativeToolTip": "HomeWork5\\Pages\\VeiwAllCV.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:22:37.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:07:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCV.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\CreateCV.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\CreateCV.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\CreateCV.cshtml.cs",
+              "RelativeToolTip": "HomeWork5\\Pages\\CreateCV.cshtml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:49:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:48:42.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T20:10:38.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CVServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Services\\CVServices.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Services\\CVServices.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Services\\CVServices.cs",
+              "RelativeToolTip": "HomeWork5\\Services\\CVServices.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:08:51.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICVServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Services\\ICVServices.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Services\\ICVServices.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Services\\ICVServices.cs",
+              "RelativeToolTip": "HomeWork5\\Services\\ICVServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:53:33.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CVCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Commands\\CVCommands.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Commands\\CVCommands.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Commands\\CVCommands.cs",
+              "RelativeToolTip": "HomeWork5\\Commands\\CVCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:45:16.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240516081950_InitialSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Migrations\\20240516081950_InitialSchema.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Migrations\\20240516081950_InitialSchema.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Migrations\\20240516081950_InitialSchema.cs",
+              "RelativeToolTip": "HomeWork5\\Migrations\\20240516081950_InitialSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:19:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\CreateCV.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\CreateCV.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\CreateCV.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\CreateCV.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T20:12:53.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Program.cs",
+              "RelativeToolTip": "HomeWork5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:13:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeWork5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\appsettings.json",
+              "RelativeToolTip": "HomeWork5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T19:01:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CVViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Models\\CVViewModel.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Models\\CVViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Models\\CVViewModel.cs",
+              "RelativeToolTip": "HomeWork5\\Models\\CVViewModel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:24:32.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CVBindModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Models\\CVBindModel.cs",
+              "RelativeDocumentMoniker": "HomeWork5\\Models\\CVBindModel.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Models\\CVBindModel.cs",
+              "RelativeToolTip": "HomeWork5\\Models\\CVBindModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvxwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:16:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeWork5.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+              "RelativeDocumentMoniker": "HomeWork5\\HomeWork5.csproj",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+              "RelativeToolTip": "HomeWork5\\HomeWork5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T09:14:46.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeWork5\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\ASP\\HomeWork5\\HomeWork5\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HomeWork5\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:08:21.33Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

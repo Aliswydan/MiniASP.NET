@@ -1,0 +1,61 @@
+﻿@page "{id:int}"
+@model HomeWork5.Pages.VeiwCVByIdModel
+@{
+    ViewData["Title"] = "Veiw CV By ID";
+}
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="text-primary">
+            <h1>Your CV</h1>
+        </div>
+        <div class="col-6">
+            <a asp-page="/CreateCV" class="btn btn-primary">Create your CV</a>
+        </div>
+    </div>
+    <br />
+    <br />
+    <table class="table table-striped table-bordered">
+        @if (Model.cv != null)
+        {
+
+        <thead>
+            
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>skills</th>
+                <th>sex</th>
+                <th>Nationality</th>
+                <th>Photo</th>
+                <th>Birthday</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            
+                <tr>
+                    <td>@Model.cv.FirstName</td>
+                    <td>@Model.cv.LastName</td>
+                    <td>@Model.cv.Email</td>
+                    <td>@Model.cv.Skills</td>
+                    <td>@Model.cv.Sex</td>
+                    <td>@Model.cv.Nationality</td>
+                    <td>@Model.cv.Photo</td>
+                    <td>@Model.cv.Birthday.ToShortDateString()</td>
+
+                </tr>
+            
+
+            </tbody>
+        }
+        else
+        {
+            <tr>
+                <td>No CV found By This Id</td>
+            </tr>
+        }
+    </table>
+</div>
